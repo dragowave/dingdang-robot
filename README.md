@@ -9,10 +9,6 @@
 [![QQ群](https://img.shields.io/badge/QQ%E7%BE%A4-580447290-red.svg
 )](http://onmw7y6f4.bkt.clouddn.com/dingdang-group.png)
 
-> 温馨提示：使用 [wzpan/dingdang-robot](https://github.com/wzpan/dingdang-robot/) 的用户请参考 [迁移仓库](https://github.com/dingdang-robot/dingdang-robot/wiki/transfer) 迁移到本仓库，以获得更新服务。
-
-叮当是一款可以工作在 Raspberry Pi 上的开源中文语音对话机器人/智能音箱项目，目的是让中国的Hacker们也能快速打造个性化的智能音箱。
-
 <h1 align="center">
 <img width="250" src="http://onmw7y6f4.bkt.clouddn.com/dingdang-logo.png" alt="dingdang">
 </h1>
@@ -189,10 +185,3 @@ kill -9 PID号
 - pi 账户默认登录密码是啥？
 
   - 与 Raspbian 系统默认密码相同，都是 raspberry 。
-
-## 免责声明
-
-* 叮当只用作个人学习研究，如因使用叮当导致任何损失，本人概不负责。
-* 本开源项目与腾讯叮当助手没有任何关系。
-
-![](http://onmw7y6f4.bkt.clouddn.com/post.jpg)
